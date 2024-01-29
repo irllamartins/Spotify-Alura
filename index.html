@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="./src/styles/sidebar-footer.css" />
     <link rel="stylesheet" href="./src/styles/main-content.css" />
     <link rel="stylesheet" href="./src/styles/media-queries.css">
+    <link rel="stylesheet" href="./src/styles/audio.css">
 
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/solid.css"
         integrity="sha384-Tv5i09RULyHKMwX0E8wJUqSOaXlyu3SQxORObAI08iUwIalMmN5L6AvlPX2LMoSE" crossorigin="anonymous" />
@@ -67,6 +68,7 @@
                 </button>
 
             </div>
+           
         </div>
     </div>
     <main>
@@ -245,13 +247,19 @@
                         </div>
                     </div>
                 </div>
+
                 <div id="result-not-found" class="hidden">
-                    <span >Não foi encontrado nenhum resultado</span>
+                    <span>Não foi encontrado nenhum resultado</span>
                 </div>
 
             </div>
         </div>
     </main>
+    <audio controls class="hidden">
+        <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mpeg">
+        Seu navegador não suporta o elemento de áudio.
+    </audio>
+    
     <footer class="disclaimer-premium">
         <div class="text">
             <p class="disclaimer-premium_title">Testar o Premium de graça</p>
@@ -264,6 +272,7 @@
             <button type="button">Inscreva-se grátis</button>
         </div>
     </footer>
+
     <script src="script.js" type="text/javascript"></script>
 </body>
 

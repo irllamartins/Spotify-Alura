@@ -1,0 +1,19 @@
+ audio {
+    width: 100%;
+    background: linear-gradient(to right,  #ae2896, #509bf5);
+    padding: 5px;
+    position: fixed;
+    bottom: 80px;
+    left: 0; 
+  }
+  
+  audio::-webkit-media-controls-panel {
+    background: linear-gradient(to right, #ae2896, #509bf5);
+  }
+  
+  audio::-webkit-media-controls-play-button {
+    border-radius: 50%;
+  }
+
+  
+ 

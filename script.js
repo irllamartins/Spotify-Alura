@@ -78,3 +78,20 @@ buttonDone.addEventListener('click', function () {
 
 });
 
+// tocar audio
+const card = document.querySelector('.artist-card');
+const audio = document.querySelector('audio');
+
+let isPlaying = false;
+
+card.addEventListener('click', () => {
+  if (isPlaying) {
+    audio.pause();
+    isPlaying = false;
+    audio.classList.add('hidden');
+  } else {
+    audio.play();
+    isPlaying = true;
+    audio.classList.remove('hidden');
+  }
+});
