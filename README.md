@@ -2,6 +2,7 @@
  <p >
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20FINALIZADO&style=for-the-badge"/>
 </p>
+
 ### Funcionalidades funcionais
 
 [x] - Busca de artista
