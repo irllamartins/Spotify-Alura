@@ -4,7 +4,8 @@
 </p>
 
 ### Funcionalidades funcionais
-
+>[] Criar uma conta
+>[] Criar playlist
 >[X] Busca de artista
 >[X] Clicar no artitas toca musica exemplo
 
