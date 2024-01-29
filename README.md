@@ -5,8 +5,8 @@
 
 ### Funcionalidades funcionais
 
-[x] - Busca de artista
-[x] - Clicar no artitas toca musica exemplo
+[X] - Busca de artista
+[X] - Clicar no artitas toca musica exemplo
 
 ### Tecnologias usadas
 <div>
