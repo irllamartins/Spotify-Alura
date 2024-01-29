@@ -335,3 +335,9 @@
     padding: 20px 40px;
   }
   /* FIM CARD ARTISTA */
+
+  #result-not-found{
+    color:var(--text-white);
+    text-align: center;
+    justify-content: center;
+  }
