@@ -57,20 +57,13 @@ const musicalGenreApi = (genreTerm) => {
             }
         })
 }
-// voltar para p padrão
- /*const buttonDone = document.getElementById('arrow-left');
+
+// voltar para pagina padrão
+const buttonDone = document.getElementById('arrow-left');
 
 buttonDone.addEventListener('click', function () {
-    const url = `http://localhost:3000/artists`
-
-   fetch(url)
-        .then((response) => response.json())
-        .then((result) => {
-            if (result.length > 0) {
-                displayResults(result)
-            }
-        })
-        resultPlaylist.classList.add('hidden');
-  //  resultArtist.classList.add('hidden');
-});*/
+    // o add hidden deixa invisivel
+    resultArtist.classList.add('hidden');
+    resultPlaylist.classList.remove('hidden');
+});
 
