@@ -9,11 +9,11 @@
 [x] - Clicar no artitas toca musica exemplo
 
 ### Tecnologias usadas
-<div align="center">
+
   <img align="center" alt="Misla-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="Misla-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Misla-JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-</div>
+
   
 ### Tela principal 
 ![image](https://github.com/irllamartins/Spotify-Alura/assets/39415559/ca14f13c-cf78-40fd-bd92-5e695b4cbefd)
