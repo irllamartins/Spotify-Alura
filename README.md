@@ -3,8 +3,8 @@
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20FINALIZADO&style=for-the-badge"/>
 </p>
 ### Funcionalidades funcionais
-[ X ] - Busca de artista
-[ X ] - Clicar no artitas toca musica exemplo
+[ x ] - Busca de artista
+[ x ] - Clicar no artitas toca musica exemplo
 
 ### Tela principal 
 ![image](https://github.com/irllamartins/Spotify-Alura/assets/39415559/ca14f13c-cf78-40fd-bd92-5e695b4cbefd)
